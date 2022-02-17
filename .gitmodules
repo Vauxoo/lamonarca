@@ -1,0 +1,4 @@
+[submodule "lamonarca"]
+	path = lamonarca
+	url = git@git.vauxoo.com:vauxoo/lamonarca.git
+	branch = 15.0
